@@ -1,0 +1,38 @@
+{
+  "name": "Riyanlaiyan.com",
+  "short_name": "RiyanLaiyan",
+  "start_url": "https://www.riyanlaiyan.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Blog yang membahas tentang Tutorial Blogger, Tips Blogging, Musik, Internet dan juga Info menarik lainnya.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-dsfWwZz_O9o/Xj_RnIu5M7I/AAAAAAAAGa8/y1J-GlxsQO47KHETnv-w7CEbqrditlbbQCLcBGAsYHQ/s48/android-icon-192x192.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dsfWwZz_O9o/Xj_RnIu5M7I/AAAAAAAAGa8/y1J-GlxsQO47KHETnv-w7CEbqrditlbbQCLcBGAsYHQ/s72/android-icon-192x192.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dsfWwZz_O9o/Xj_RnIu5M7I/AAAAAAAAGa8/y1J-GlxsQO47KHETnv-w7CEbqrditlbbQCLcBGAsYHQ/s96/android-icon-192x192.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dsfWwZz_O9o/Xj_RnIu5M7I/AAAAAAAAGa8/y1J-GlxsQO47KHETnv-w7CEbqrditlbbQCLcBGAsYHQ/s144/android-icon-192x192.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dsfWwZz_O9o/Xj_RnIu5M7I/AAAAAAAAGa8/y1J-GlxsQO47KHETnv-w7CEbqrditlbbQCLcBGAsYHQ/s168/android-icon-192x192.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dsfWwZz_O9o/Xj_RnIu5M7I/AAAAAAAAGa8/y1J-GlxsQO47KHETnv-w7CEbqrditlbbQCLcBGAsYHQ/s192/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Kg-1x5tqw08/Xj_VvtAar5I/AAAAAAAAGbI/NVbad-Tm2Lw38Sr66KHhwYNRwghoMxRGwCLcBGAsYHQ/s512/logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
